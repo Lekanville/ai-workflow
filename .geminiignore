@@ -1,0 +1,21 @@
+# Dependencies & Virtual Envs
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Build outputs & caches
+frontend/dist/
+frontend/build/
+.cache/
+.vite/
+
+# Database & Logs
+*.sqlite3
+*.log
+database/*.db
+
+# System & Version Control
+.git/
+.DS_Store
